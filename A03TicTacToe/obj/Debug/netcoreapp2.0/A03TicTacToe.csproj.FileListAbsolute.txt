@@ -1,0 +1,11 @@
+/Users/patrick/Projects/A03TicTacToe/A03TicTacToe/bin/Debug/netcoreapp2.0/A03TicTacToe.deps.json
+/Users/patrick/Projects/A03TicTacToe/A03TicTacToe/bin/Debug/netcoreapp2.0/A03TicTacToe.runtimeconfig.json
+/Users/patrick/Projects/A03TicTacToe/A03TicTacToe/bin/Debug/netcoreapp2.0/A03TicTacToe.runtimeconfig.dev.json
+/Users/patrick/Projects/A03TicTacToe/A03TicTacToe/bin/Debug/netcoreapp2.0/A03TicTacToe.dll
+/Users/patrick/Projects/A03TicTacToe/A03TicTacToe/bin/Debug/netcoreapp2.0/A03TicTacToe.pdb
+/Users/patrick/Projects/A03TicTacToe/A03TicTacToe/obj/Debug/netcoreapp2.0/A03TicTacToe.csprojResolveAssemblyReference.cache
+/Users/patrick/Projects/A03TicTacToe/A03TicTacToe/obj/Debug/netcoreapp2.0/A03TicTacToe.csproj.CoreCompileInputs.cache
+/Users/patrick/Projects/A03TicTacToe/A03TicTacToe/obj/Debug/netcoreapp2.0/A03TicTacToe.AssemblyInfoInputs.cache
+/Users/patrick/Projects/A03TicTacToe/A03TicTacToe/obj/Debug/netcoreapp2.0/A03TicTacToe.AssemblyInfo.cs
+/Users/patrick/Projects/A03TicTacToe/A03TicTacToe/obj/Debug/netcoreapp2.0/A03TicTacToe.dll
+/Users/patrick/Projects/A03TicTacToe/A03TicTacToe/obj/Debug/netcoreapp2.0/A03TicTacToe.pdb
