@@ -6,18 +6,18 @@ using System.Threading.Tasks;
 
 namespace A03TicTacToe
 {
-    class GameSquare
+  class GameSquare
+  {
+    public bool IsFilled { get; set; }
+    public char Token { get; set; }  //needed for win condition
+    public int Age { get; set; }
+
+
+    public void clearSquare()
     {
-        public bool IsFilled { get; set; }
-        public char Token { get; set; }  //needed for win condition
-        public int Age { get; set; }
-
-
-        public void clearSquare()
-        {
-            IsFilled = false;
-            Token = ' ';
-        }
-
+      IsFilled = false;
+      Token = ' ';
     }
+
+  }
 }
